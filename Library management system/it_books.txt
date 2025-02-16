@@ -1,0 +1,81 @@
+20
+IT101
+Clean Coder
+R.C. Martin
+0
+IT102
+AI
+   S.Russell, P. Norvig
+0
+IT103
+Big Data
+V. Mayer-Schonberger, K. Cukier
+0
+IT104
+Operating Systems
+A. Silberschatz
+0
+IT105
+Learning Python
+M. Lutz
+0
+IT106
+SQL for Web
+J. R. Vacca
+0
+IT107
+JavaScript
+D. Crockford
+0
+IT108
+Linux Bible
+C. Negus
+0
+IT109
+Computer Networks
+A. S. Tanenbaum
+0
+IT110
+Data Science
+J. Grus
+0
+IT111
+HTML & CSS
+J. Duckett
+0
+IT112
+Web Dev
+    B.W.Kernighan
+0
+IT113
+C Programming
+B. W. Kernighan, D. Ritchie
+0
+IT114
+Swift Programming
+M. Mathias, J. Gallagher
+0
+IT115
+Java 8
+R. G. Urma
+0
+IT116
+Web APIs
+K. Rother
+0
+IT117
+PHP & MySQL
+L. Welling, L. Thomson
+0
+IT118
+Java 7
+J. Gosling, J. Joy
+0
+IT119
+Android Prog
+B. Phillips, C. Stewart
+0
+IT120
+Data Structures
+A. K. Sharma
+0

@@ -1,0 +1,81 @@
+20
+CS101
+Algorithms
+Thomas H. Cormen, Charles E. Leiserson
+0
+CS102
+Art of Programming
+Donald E. Knuth
+0
+CS103
+Discrete Math
+Kenneth H. Rosen
+0
+CS104
+Compilers
+Alfred V. Aho, Monica S. Lam
+0
+CS105
+Artificial Intelligence
+Stuart Russell, Peter Norvig
+0
+CS106
+Programming Pearls
+Jon Bentley
+0
+CS107
+Structure of Computer Programs
+Harold Abelson, Gerald Jay Sussman
+0
+CS108
+Operating Systems
+Abraham Silberschatz
+0
+CS109
+Compilers Design
+Alfred V. Aho, Jeffrey D. Ullman
+0
+CS110
+Pragmatic Programmer
+Andrew Hunt, David Thomas
+0
+CS111
+Database Systems
+Abraham Silberschatz
+0
+CS112
+Software Engineering
+Ian Sommerville
+0
+CS113
+Algorithms
+Robert Sedgewick
+0
+CS114
+C Programming
+Brian W. Kernighan, Dennis M. Ritchie
+0
+CS115
+Learning Python
+Mark Lutz
+0
+CS116
+C++ Programming
+Bjarne Stroustrup
+0
+CS117
+AI: A Modern Approach
+Stuart Russell, Peter Norvig
+0
+CS118
+Computer Organization
+Carl Hamacher
+0
+CS119
+Compiler Principles
+Alfred V. Aho, Jeffrey D. Ullman
+0
+CS120
+Data Science from Scratch
+Joel Grus
+0

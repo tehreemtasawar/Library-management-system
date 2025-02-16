@@ -1,0 +1,81 @@
+20
+SE101
+Code Complete
+Steve McConnell
+0
+SE102
+Clean Code
+Rober Engineering
+0
+SE103
+Refactoring
+Martin Fowler
+0
+SE104
+Design Patterns
+Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+0
+SE105
+Pragmatic Programmer
+Andrew Hunt, David Thomas
+0
+SE106
+Agile Software Development
+Robert C. Martin
+0
+SE107
+Mythical Man-Month
+Frederick P. Brooks
+0
+SE108
+Software 
+Mike Cohn
+0
+SE109
+Continuous Delivery
+David Farley
+0
+SE110
+Test-Driven Development
+Kent Beck
+0
+SE111
+Extreme Programming
+Kent Beck
+0
+SE112
+Software Requirements
+Karl Wiegers
+0
+SE113
+Managing Software
+Robert T. Futrell
+0
+SE114
+Clean Coder
+Robert C. Martin
+0
+SE115
+Software Testing
+Glenford J. Myers
+0
+SE116
+Enterprise Patterns
+Martin Fowler
+0
+SE117
+Agile Estimatingt C. Martin
+
+0
+SE118
+Domain-Driven Design
+Eric Evans
+0
+SE119
+Software Architecture
+Mary Shaw
+0
+SE120
+Microservices
+Sam Newman
+0
